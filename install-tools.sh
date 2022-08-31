@@ -32,3 +32,6 @@ kubectl krew install slice
 # Terraform
 brew tap hashicorp/tap
 brew install hashicorp/tap/terraform
+
+# Powershell Core
+brew install --cask powershell
