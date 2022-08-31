@@ -5,4 +5,4 @@ brew install zsh
 chsh -s /usr/local/bin/zsh
 
 # Confirm default shell
-echo "$SHELL is the default shell."
+echo "--\n$SHELL is the default shell.\n---"
